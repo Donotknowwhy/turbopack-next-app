@@ -10,7 +10,7 @@ type Item = {
 
 export const demos: Item[] = [
   {
-    name: 'Layouts',
+    name: 'Layouts App',
     items: [
       {
         name: 'Nested Layouts',
